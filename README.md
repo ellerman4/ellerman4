@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ellerman4
-- 👀 I’m interested in data science/visualization and backend development
+- 👀 I’m interested in data science/visualization, backend development, and automotive development.
 - 🌱 I’m currently learning the Django framework!
 - 📫 How to reach me: ahful#2355 or ellermansteam@hotmail.com
 
